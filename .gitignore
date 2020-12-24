@@ -2,5 +2,7 @@
 /.cpcache
 /.shadow-cljs
 /resources
-/public
+/public/js
 /out
+/.idea
+.nrepl-port

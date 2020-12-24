@@ -60,7 +60,6 @@
   (d/release conn)
 
 ;; clean up the database if it is not need any more
-  (d/delete-database cfg)
+  (d/delete-database cfg))
   
   ;; format blocker
-  )
