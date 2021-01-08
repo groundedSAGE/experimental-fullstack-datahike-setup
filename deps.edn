@@ -4,6 +4,6 @@
  :paths ["src"]
 
  :aliases {:cljs {:override-deps {io.replikativ/datahike        {:git/url "https://github.com/replikativ/datahike/"
-                                                                 :sha     "684cf719d93618a4630565078f3efb4b85858070"}}
+                                                                 :sha     "b6411c3aa0bc250f721138c49eb2a1ec76bd4a57"}}
                   :extra-deps {thheller/shadow-cljs {:mvn/version "2.10.21"}
                                binaryage/devtools   {:mvn/version "1.0.2"}}}}}
